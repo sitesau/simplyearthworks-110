@@ -1,0 +1,22 @@
+{
+  "wheel_id": 845,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-110",
+  "project": "earthmoving-services-adelaide-faq-119b3c5550a35177d5b773867737c",
+  "parent_t1_ref": "simplyearthworks-154",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving services adelaide faq",
+  "intended_url": "https://sitesau.github.io/simplyearthworks-110/",
+  "tier": "T2",
+  "writeback_nonce": "f64b834dee4f2ebe",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/earthmoving-services-adelaide-red-flags-7ef0be575a81e78cbcb7827/",
+      "anchor": "Earthmoving Services Adelaide Red Flags: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
